@@ -1,0 +1,30 @@
+
+{
+  "project_info": {
+    "project_number": "82822655062",
+    "project_id": "login-auth-490a8",
+    "storage_bucket": "login-auth-490a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82822655062:android:e675e451cf4bf42151dff7",
+        "android_client_info": {
+          "package_name": "com.example.recipemgmt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAylWBu-cE546IqxZBjUeD4AtMHz7CGjFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
